@@ -1,7 +1,7 @@
 # Node.js dotfiles
 Node.js dotfiles, [managed by GNU Stow][stow].
 
-Start by running `setup.sh`, which installs the [asdf][asdf] [Node.js plugin][plugin]. Run `teardown.sh` return everything to its pre-setup state.
+Run `setup.sh` to install the [asdf][asdf] [Node.js plugin][plugin]. Run `teardown.sh` to return everything to its pre-setup state.
 
 [asdf]: https://asdf-vm.com/
 [plugin]: https://github.com/asdf-vm/asdf-nodejs/
